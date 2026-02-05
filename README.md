@@ -1,6 +1,5 @@
 ## 🚀 About Me
-💻 Aspiring .NET Developer focusing on desktop and web applications. 
-
+💻 Aspiring .NET Developer focusing on desktop and web applications.  
 ⚙️ Learning JavaScript at the moment. 
 
 ## 🧰 Tech Stack
