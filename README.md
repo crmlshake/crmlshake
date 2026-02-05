@@ -1,5 +1,6 @@
 ## 🚀 About Me
-Aspiring .NET Developer focusing on desktop and web applications.
+💻 Aspiring .NET Developer focusing on desktop and web applications.
+⚙️ Learning JavaScript at the moment. 
 
 ## 🧰 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
